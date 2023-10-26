@@ -2,7 +2,7 @@
 			
 
 var urlApiBusqueda = "https://www.inegi.org.mx/app/api/denue/v1/consulta/buscar/#condicion/#latitud,#longitud/#metros/#token";
-var token = 'AQUÍ_VA_TU_TOKEN';
+var token = 'feb3a08a-a504-4b2e-95ee-3fc274b2ad9d';
 var vecNombres = [
 'id de establecimiento',
 'Nombre de la unidad econ&oacute;mica:',
